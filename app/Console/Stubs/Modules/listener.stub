@@ -1,0 +1,19 @@
+<?php
+
+namespace $NAMESPACE$;
+
+use $EVENTNAME$;
+
+class $CLASS$
+{
+    /**
+     * Handle the event.
+     *
+     * @param $SHORTEVENTNAME$ $event
+     * @return void
+     */
+    public function handle($SHORTEVENTNAME$ $event)
+    {
+        //
+    }
+}
